@@ -1,2 +1,6 @@
-User-agent: *
-Disallow:
+User-agent:
+Disallow: /admin/
+Allow: /* .css
+Allow: /* .js
+Allow: /* .html
+Sitemap: https://Anastasia1198.github.io/sitemap.xml
